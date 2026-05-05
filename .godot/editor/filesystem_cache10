@@ -1,4 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1777981433
+::res://::1777981670
 Main.gd::GDScript::2158052852329868992::1777981096::0::1::::<>Node3D<><>0<>0<><>::
 Main.tscn::PackedScene::-1::1777981078::0::1::::<><><>0<>0<><>::res://Main.gd
+README.md::TextFile::-1::1777981641::0::1::::<><><>0<>0<><>::
+::res://images/::1777981769
+step_0.png::CompressedTexture2D::5187566783134528988::1777981676::1777981759::1::::<><><>0<>0<>90e16d94d7af72140b109fd2a2602395<>res://.godot/imported/step_0.png-57309841c2c3f3f24aa8c0fa2d1969a4.ctex::
+step_1.png::CompressedTexture2D::936294102583049973::1777981737::1777981759::1::::<><><>0<>0<>3926bdff0ebf586b4e62ada6101d07b9<>res://.godot/imported/step_1.png-c35668d01f503f24d8496f9411e07a51.ctex::
+step_2.png::CompressedTexture2D::3449588492592292912::1777981767::1777981773::1::::<><><>0<>0<>8ab251971ee2de4711bd7e6933fab45f<>res://.godot/imported/step_2.png-7cbf4868b3187ad84ab1d54a0d429744.ctex::
