@@ -19,6 +19,10 @@ func _on_tween_button_pressed() -> void:
 	active_tween.tween_property(blue_arrow, "rotation:y", green_arrow.rotation.y, 5.0)
 ```
 
+Here's a sample video
+
+[Sample Video](./capture.mp4)
+
 Here's sample screenshots
 
 ![alt text](images/step_0.png)
